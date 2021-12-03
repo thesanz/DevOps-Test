@@ -10,5 +10,7 @@ public class App {
         System.out.println("Added line..");
 
         System.out.println("Welcome to DevOps training!!");
+
+        System.out.println("Added another line !!");
     }
 }
